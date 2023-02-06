@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Basic discord bot template.",
+  "main": "login.js",
+  "scripts": {
+    "test": "node login.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWTCHR/discord-bot-template.git"
+  },
+  "keywords": [
+    "Witcher",
+    "Bot",
+    "Template",
+    "Discord"
+  ],
+  "author": "Witcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWTCHR/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/TheWTCHR/discord-bot-template#readme"
+}
