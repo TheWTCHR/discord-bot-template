@@ -24,7 +24,7 @@
   "homepage": "https://github.com/TheWTCHR/discord-bot-template#readme",
   "dependencies": {
     "@mostfeatured/bundler": "^2.0.0",
-    "@mostfeatured/dbi": "^0.0.70",
+    "@mostfeatured/dbi": "^0.0.74",
     "dotenv": "^16.0.3"
   }
 }
